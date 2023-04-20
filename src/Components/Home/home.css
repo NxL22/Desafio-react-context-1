@@ -1,0 +1,22 @@
+.home-class {
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/04/rick-and-morty-wallpaper-portal-wallpaper-001-920x518.jpg);
+    padding: 50px 0;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 8px 16px rgba(1, 248, 83, 1.793);
+    border-radius: 18px;
+}
+
+.card-text p {
+    margin: 5px 0;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: 400;
+    
+}
+
+.card-body {
+    text-align: center;
+}
